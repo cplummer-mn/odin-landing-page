@@ -82,6 +82,8 @@ a {
     gap: 64px;
     align-items: center;
     /* min-height: 600px;  */
+    height: 400px;
+    padding: 30px 22%;
 }
 
 .content-one-button {
@@ -127,7 +129,8 @@ a {
     display: flex;
     margin: 0px;
     justify-content: center;
-    padding: 50px 400px;
+    /* padding: 50px 400px; */
+    padding: 50px 33%;
 }
 
 .info-img {
